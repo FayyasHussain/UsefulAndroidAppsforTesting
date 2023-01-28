@@ -2,6 +2,7 @@
 
 
 1. FakeGPS : 
+
 About : Teleport your phone to any place in the world with two clicks! This app sets up fake GPS location so every other app in your phone belives you are there! While testing mobile apps using locations, this apps lets us change location to anywhere on the world 
 a. Select location on the map
 b. Goto a location by entering latitude and longitude
