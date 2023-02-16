@@ -18,9 +18,14 @@ Must have app, when testing android apps for Media share testing
 download link : https://play.google.com/store/apps/details?id=net.mediaarea.mediainfo
 
 3. XRecorder : https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder
-4. GlassWire : https://play.google.com/store/apps/details?id=com.glasswire.android
-5. CPU-Z : https://play.google.com/store/apps/details?id=com.cpuid.cpu_z 
-6. QualityTime : https://play.google.com/store/apps/details?id=com.zerodesktop.appdetox.qualitytime
-7. Backup & Restore : https://play.google.com/store/apps/details?id=mobi.infolife.appbackup
+
+Useful for screen recording in android app
+
+5. GlassWire : https://play.google.com/store/apps/details?id=com.glasswire.android
+
+Data usage monitor - shows data usage across all apps in android device  
+7. CPU-Z : https://play.google.com/store/apps/details?id=com.cpuid.cpu_z 
+8. QualityTime : https://play.google.com/store/apps/details?id=com.zerodesktop.appdetox.qualitytime
+9. Backup & Restore : https://play.google.com/store/apps/details?id=mobi.infolife.appbackup
 
 This app will be useful, if we need to take an apk from your device to share with anyone
