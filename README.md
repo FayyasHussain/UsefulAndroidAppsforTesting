@@ -21,4 +21,6 @@ download link : https://play.google.com/store/apps/details?id=net.mediaarea.medi
 4. GlassWire : https://play.google.com/store/apps/details?id=com.glasswire.android
 5. CPU-Z : https://play.google.com/store/apps/details?id=com.cpuid.cpu_z 
 6. QualityTime : https://play.google.com/store/apps/details?id=com.zerodesktop.appdetox.qualitytime
-7. 
+7. Backup & Restore : https://play.google.com/store/apps/details?id=mobi.infolife.appbackup
+
+This app will be useful, if we need to take an apk from your device to share with anyone
