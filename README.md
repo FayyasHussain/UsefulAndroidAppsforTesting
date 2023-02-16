@@ -26,6 +26,7 @@ Useful for screen recording in android app
 Data usage monitor - shows data usage across all apps in android device  
 7. CPU-Z : https://play.google.com/store/apps/details?id=com.cpuid.cpu_z 
 8. QualityTime : https://play.google.com/store/apps/details?id=com.zerodesktop.appdetox.qualitytime
+
 9. Backup & Restore : https://play.google.com/store/apps/details?id=mobi.infolife.appbackup
 
 This app will be useful, if we need to take an apk from your device to share with anyone
